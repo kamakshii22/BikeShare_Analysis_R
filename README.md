@@ -6,7 +6,7 @@
 
 This repository contains an analysis aimed at understanding the usage patterns of Cyclistic bike-share service users, differentiating between annual members and casual riders, with the goal of converting casual riders into annual members. The project utilizes historical bike trip data to derive insights and formulate strategic recommendations.
 
-##Main Objective -
+**Main Objective -** <br>
 Converting Casual Riders into Annual Members
 ## Data Description
 
