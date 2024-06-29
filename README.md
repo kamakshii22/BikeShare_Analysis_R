@@ -59,7 +59,7 @@ Converting Casual Riders into Annual Members
 
 ## Files
 
-- **R Scripts:** Contains scripts for data cleaning, EDA, and analysis.
+- **R Scripts and R Markdown:** Contains scripts for data cleaning, EDA, and analysis And all the insights and inferences from the analysis.
 - **Report:** Comprehensive report detailing the analysis, key findings, and recommendations.
 
 ## Conclusion
