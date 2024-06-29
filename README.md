@@ -59,8 +59,8 @@ Converting Casual Riders into Annual Members
 
 ## Files
 
-- **R Scripts and R Markdown:** Contains scripts for data cleaning, EDA, and analysis And all the insights and inferences from the analysis.
-- **Report:** Comprehensive report detailing the analysis, key findings, and recommendations.
+- [**R Scripts**](https://github.com/kamakshii22/BikeShare_Analysis_R/blob/main/Cyclistic_Data_Analysis_R.R) and [**R Markdown:**](https://github.com/kamakshii22/BikeShare_Analysis_R/blob/main/Cyclistic_Data_Analysis_R_Markdown.pdf) Contains scripts for data cleaning, EDA, and analysis And all the insights and inferences from the analysis.
+- [**Report:**](https://github.com/kamakshii22/BikeShare_Analysis_R/blob/main/Cyclistic_EDA_ProjectReport_R_KS.pdf) Comprehensive report detailing the analysis, key findings, and recommendations.
 
 ## Conclusion
 
